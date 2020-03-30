@@ -20,13 +20,23 @@ namespace Exercise3
 
         private void convertButton_Click(object sender, EventArgs e)
         {
-            decimal num = decimal.Parse(dollarInput.Text);
 
-            decimal conversion = num * decimal.Parse("0.9");
 
-            Console.WriteLine(conversion);
 
-            euroOutput.Text = conversion.ToString("F3");
+            try
+            {
+                decimal num = decimal.Parse(dollarInput.Text);
+                decimal conversion = num * decimal.Parse("0.9");
+
+                Console.WriteLine(conversion);
+
+                euroOutput.Text = conversion.ToString("F3");
+            }
+            catch
+            {
+                MessageBox.Show("Please make sure you enter a valid number. Decimals are OK");
+            }
+       
         }
     }
 }

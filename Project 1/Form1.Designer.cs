@@ -37,14 +37,14 @@
             // 
             // dollarInput
             // 
-            this.dollarInput.Location = new System.Drawing.Point(349, 111);
+            this.dollarInput.Location = new System.Drawing.Point(372, 108);
             this.dollarInput.Name = "dollarInput";
             this.dollarInput.Size = new System.Drawing.Size(204, 26);
             this.dollarInput.TabIndex = 0;
             // 
             // euroOutput
             // 
-            this.euroOutput.Location = new System.Drawing.Point(349, 188);
+            this.euroOutput.Location = new System.Drawing.Point(372, 188);
             this.euroOutput.Name = "euroOutput";
             this.euroOutput.Size = new System.Drawing.Size(204, 26);
             this.euroOutput.TabIndex = 1;
@@ -54,22 +54,22 @@
             this.dollarLabel.AutoSize = true;
             this.dollarLabel.Location = new System.Drawing.Point(180, 114);
             this.dollarLabel.Name = "dollarLabel";
-            this.dollarLabel.Size = new System.Drawing.Size(163, 20);
+            this.dollarLabel.Size = new System.Drawing.Size(186, 20);
             this.dollarLabel.TabIndex = 2;
-            this.dollarLabel.Text = "Input a dollar amount:";
+            this.dollarLabel.Text = "Input a dollar ($) amount:";
             // 
             // euroLabel
             // 
             this.euroLabel.AutoSize = true;
             this.euroLabel.Location = new System.Drawing.Point(213, 188);
             this.euroLabel.Name = "euroLabel";
-            this.euroLabel.Size = new System.Drawing.Size(130, 20);
+            this.euroLabel.Size = new System.Drawing.Size(153, 20);
             this.euroLabel.TabIndex = 3;
-            this.euroLabel.Text = "Euro Conversion:";
+            this.euroLabel.Text = "Euro (€) Conversion:";
             // 
             // convertButton
             // 
-            this.convertButton.Location = new System.Drawing.Point(286, 293);
+            this.convertButton.Location = new System.Drawing.Point(281, 293);
             this.convertButton.Name = "convertButton";
             this.convertButton.Size = new System.Drawing.Size(121, 69);
             this.convertButton.TabIndex = 4;

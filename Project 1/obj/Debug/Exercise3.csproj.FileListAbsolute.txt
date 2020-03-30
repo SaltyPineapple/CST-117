@@ -18,3 +18,13 @@ C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Exercise3\Exercise3\obj\Debug\Exerci
 C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
 C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Exercise3\Exercise3\obj\Debug\Exercise3.exe
 C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\bin\Debug\Exercise3.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\bin\Debug\Exercise3.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\bin\Debug\Exercise3.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.Form1.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Project 1\Project 1\obj\Debug\Exercise3.pdb
