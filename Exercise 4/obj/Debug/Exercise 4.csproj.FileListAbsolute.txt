@@ -1,0 +1,10 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\bin\Debug\Exercise 4.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\bin\Debug\Exercise 4.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\bin\Debug\Exercise 4.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise 4.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise_4.Form1.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise_4.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise 4.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise 4.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 1\Milestone 1\High Fidelity\Exercise 4\obj\Debug\Exercise 4.pdb
