@@ -63,9 +63,9 @@ namespace Project2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kiwi {
+        internal static System.Drawing.Bitmap banana {
             get {
-                object obj = ResourceManager.GetObject("kiwi", resourceCulture);
+                object obj = ResourceManager.GetObject("banana", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Project2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap slicedKiwi {
+        internal static System.Drawing.Bitmap slicedBanana {
             get {
-                object obj = ResourceManager.GetObject("slicedKiwi", resourceCulture);
+                object obj = ResourceManager.GetObject("slicedBanana", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

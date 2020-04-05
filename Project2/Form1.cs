@@ -19,55 +19,86 @@ namespace Project2
 
         private void drawButton_Click(object sender, EventArgs e)
         {
-            // Choice Box
-            int selectedFruitIndex = fruitChoiceBox.SelectedIndex;
-            String selectedFruitString = fruitChoiceBox.SelectedItem.ToString();
+
+            
 
 
-            if (selectedFruitIndex != -1)
+            if(fruitListBox.SelectedIndex != -1)
             {
-                if(selectedFruitIndex == 0 && slicedRadio.Checked)
+                string selectedFruitName = fruitListBox.SelectedItem.ToString();
+                int index = fruitListBox.SelectedIndex;
+
+
+                // Set name label to fruit name if box is checked
+                if (nameCheckBox.Checked)
                 {
-                    fruitOutput.Image = Project2.Properties.Resources.slicedMango;
+                    nameLabel.Text = selectedFruitName;
+                }
+                else
+                {
+                    nameLabel.Text = "";
+                }
+
+                //set correct picture depending on radio button selection
+                if(index == 0)
+                {
+                    if (wholeRadio.Checked)
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.pineapple;
+                    }
+                    else
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.slicedPineapple;
+                    }
                     
                 }
-                else if(selectedFruitIndex == 0 && wholeRadio.Checked)
+                if (index == 1)
                 {
-                    fruitOutput.Image = Project2.Properties.Resources.mango;
+                    if (wholeRadio.Checked)
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.mango;
+                    }
+                    else
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.slicedMango;
+                    }
+
+                }
+                if (index == 2)
+                {
+                    if (wholeRadio.Checked)
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.strawberry;
+                    }
+                    else
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.slicedStrawberry;
+                    }
+
+                }
+                if (index == 3)
+                {
+                    if (wholeRadio.Checked)
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.banana;
+                    }
+                    else
+                    {
+                        fruitOutput.Image = Project2.Properties.Resources.slicedBanana;
+                    }
+
                 }
 
-                if(selectedFruitIndex == 1 && slicedRadio.Checked)
-                {
-                    fruitOutput.Image = Project2.Properties.Resources.slicedPineapple;
-                }
-                else if(selectedFruitIndex == 1 && wholeRadio.Checked)
-                {
-                    fruitOutput.Image = Project2.Properties.Resources.pineapple;
-                }
 
-                if (selectedFruitIndex == 2 && slicedRadio.Checked)
-                {
-                    fruitOutput.Image = Project2.Properties.Resources.slicedStrawberry;
-                }
-                else if (selectedFruitIndex == 2 && wholeRadio.Checked)
-                {
-                    fruitOutput.Image = Project2.Properties.Resources.strawberry;
-                }
-
-                if (selectedFruitIndex == 3 && slicedRadio.Checked)
-                {
-                    fruitOutput.Image = Project2.Properties.Resources.slicedKiwi;
-                }
-                else if (selectedFruitIndex == 3 && wholeRadio.Checked)
-                {
-                    fruitOutput.Image = Project2.Properties.Resources.kiwi;
-                }
 
             }
-          
+            
 
-            // Time and Date -> Check Box
-            if (dateCheck.Checked)
+
+
+            //Check Boxes -> Name and Date
+            
+            if (dateCheckBox.Checked)
             {
                 dateLabel.Text = DateTime.Now.ToString("d");
             }
@@ -76,16 +107,8 @@ namespace Project2
                 dateLabel.Text = " ";
             }
 
-            if (timeCheck.Checked)
-            {
-                timeLabel.Text = DateTime.Now.ToString("HH:mm");
-            }
-            else
-            {
-                timeLabel.Text = " ";
-            }
-
            
+
         }
     }
 }

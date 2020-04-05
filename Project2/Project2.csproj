@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{730BBDEB-86A0-4251-ACD1-CDD3485606D2}</ProjectGuid>
+    <ProjectGuid>{F7FAA15C-B501-4515-A12B-3D48594417F6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Project2</RootNamespace>
     <AssemblyName>Project2</AssemblyName>
@@ -81,49 +81,28 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\mango.png" />
+    <None Include="Resources\banana.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\pineapple.jpg" />
+    <None Include="Resources\mango.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\slicedKiwi.jpg" />
+    <None Include="Resources\pineapple.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\slicedMango.jpg" />
+    <None Include="Resources\slicedBanana.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\slicedPineapple.jpg" />
+    <None Include="Resources\slicedMango.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\slicedStrawberry.jpg" />
+    <None Include="Resources\slicedPineapple.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\wholeKiwi.jpg" />
+    <None Include="Resources\slicedStrawberry.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\wholeStrawberry.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\kiwi.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\pineapple.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\slicedKiwi.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\slicedMango.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\slicedPineapple.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\slicedStrawberry.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\strawberry.png" />
+    <None Include="Resources\strawberry.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
