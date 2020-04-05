@@ -1,0 +1,10 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\bin\Debug\Project2.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\bin\Debug\Project2.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\bin\Debug\Project2.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 2\Project2\obj\Debug\Project2.fruitSelectionForm.resources
