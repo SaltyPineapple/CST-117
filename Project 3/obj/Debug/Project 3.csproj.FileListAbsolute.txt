@@ -1,0 +1,10 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\bin\Debug\Project 3.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\bin\Debug\Project 3.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project 3.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project_3.Form1.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project 3.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 3\Project 3\obj\Debug\Project 3.pdb
