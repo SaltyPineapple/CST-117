@@ -1,0 +1,10 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\bin\Debug\exercise6.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\bin\Debug\exercise6.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\bin\Debug\exercise6.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 4\exercise6\obj\Debug\exercise6.exercise6.resources
