@@ -1,0 +1,10 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\bin\Debug\Exercise8.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\bin\Debug\Exercise8.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\bin\Debug\Exercise8.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.Form1.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 5\Exercise8\obj\Debug\Exercise8.pdb
