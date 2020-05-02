@@ -1,0 +1,13 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.deps.json
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.runtimeconfig.json
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.runtimeconfig.dev.json
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.dll
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.AssemblyInfoInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.AssemblyInfo.cs
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.dll
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.genruntimeconfig.cache
