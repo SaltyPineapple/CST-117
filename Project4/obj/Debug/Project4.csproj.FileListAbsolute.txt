@@ -1,0 +1,10 @@
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\bin\Debug\Project4.exe.config
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\bin\Debug\Project4.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\bin\Debug\Project4.pdb
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.exe
+C:\Users\mjpra\Documents\GCU\CST 117\Week 6\Project4\obj\Debug\Project4.pdb
